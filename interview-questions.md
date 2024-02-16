@@ -50,7 +50,7 @@ Your answer:
 
  arrays store a range of data to use in to accees to information within the index. string are the number of characters within the array  -->
 
-Researched answer:
+Researched answer:Arrays are used to group together data of the same type. A string is a sequence of characters, or it can be defined as a collection of objects of the char data type
 
 <!-- ////////////////////////////////////////////////////////// -->
 
